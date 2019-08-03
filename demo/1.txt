@@ -1,3 +1,4 @@
 我还记得几个命令啊
 tar cd li cat find ifconfig 
 vi 好吧得写笔记了
+我修改过的，我是修改的
